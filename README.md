@@ -1,1 +1,3 @@
-# consumo_energia
+# Consumo de Energia
+
+Projeto em desenvolvimento.
